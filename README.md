@@ -1,6 +1,6 @@
 # RedTeam
 
-Nous vous donnons quand même un manuel d'instruction pour l'utilisation de notre solution :\n
+Nous vous donnons quand même un manuel d'instruction pour l'utilisation de notre solution :
       Le client n'est que fictif nous n'avons pas re-réussi à le faire fonctionner comme nous le voulions , il faut le simuler à la main pour naviguer entre les urls
       Nous avons réussi à mettre en place plusieurs commandes fonctionnelles pour chaque id. Il manque quand même la relation avec la base de données comme dit précédemment.
 
